@@ -1,6 +1,10 @@
 
 # Intro to React
 
+React is a UI framework for the web and more. With more than 60,000 stars on GitHub and users including Facebook, Netflix, Airbnb, and Atlassian, React has taken the web development world by storm!
+ 
+Join iCIMS for an in-depth introduction to React. We will cover all the core React principles, how to quickly start a new React app and take a look at React Native to extend your app beyond the web. By the end, you will have built your own simple React application and be prepared to start using React in your own projects.
+
 ## Follow along
 
 You can follow along with the code in this presentation on (Codepen)[https://codepen.io/carlito_platanito/project/editor/DONGad]
