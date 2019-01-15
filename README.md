@@ -1,38 +1,32 @@
 
 # Intro to React
 
-This was generated with [mdx-deck][]'s `npm init deck` command.
+## Follow along
 
-## Development
+You can follow along with the code in this presentation on (Codepen)[https://codepen.io/carlito_platanito/project/editor/DONGad]
 
-To run the presentation deck in development mode:
 
-```sh
-npm start
-```
+# Links & Resources
 
-Edit the [`deck.mdx`](deck.mdx) file to get started.
+## React
 
-## Exporting
+[React Documentation](https://reactjs.org/)
 
-To build the presentation deck as static HTML:
+[Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 
-```sh
-npm run build
-```
+## React Environment Setup
 
-To export a PDF:
+[Create React App](https://github.com/facebook/create-react-app)
 
-```sh
-npm run pdf
-```
+[Setup a React Environment Using Webpack and Babel](https://scotch.io/tutorials/setup-a-react-environment-using-webpack-and-babel)
 
-To export an image of the title slide:
+## Javascript
 
-```sh
-npm run image
-```
+[Javascript Tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
-For more documentation see the [mdx-deck][] repo.
+[Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-[mdx-deck]: https://github.com/jxnblk/mdx-deck
+# License 
+Subject to the following terms, iCIMS, Inc. ("iCIMS") grants any person accessing this site the right to access and use the code provided herein solely for reference or use in iCIMS sponsored hackathon event, and for no other purpose. The code is provided as an example for standard web development best practices, including design pattern implementation, API usage, and UI design.
+ 
+Notwithstanding the foregoing, the code is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall iCIMS be liable for any claim, damages or other liability, whether in tort, contract or otherwise, arising out of or in any manner in connection with the use of the code.
