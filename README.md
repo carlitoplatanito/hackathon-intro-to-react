@@ -7,8 +7,9 @@ Join iCIMS for an in-depth introduction to React. We will cover all the core Rea
 
 ## Follow along
 
-You can follow along with the code in this presentation on (Codepen)[https://codepen.io/carlito_platanito/project/editor/DONGad]
+You can follow along with the code in this presentation on [Codepen](https://codepen.io/carlito_platanito/project/editor/DONGad)
 
+> https://codepen.io/carlito_platanito/project/editor/DONGad
 
 # Links & Resources
 
